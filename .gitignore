@@ -1,0 +1,8 @@
+# Local tooling
+.atl/
+.codegraph/
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
